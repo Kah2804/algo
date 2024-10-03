@@ -8,6 +8,6 @@ while(i<estados.length){
 for (let j = 0; j < estados.length; j++) {
     const element = estados[j];
     console.log(j);
-    console.log(estados[i]);
+    console.log(estados[j]);
     
 }
