@@ -10,3 +10,11 @@
 //     console.log(j);
 //     console.log(estados[j]);
 // }
+let idade= 22;
+if(idade>23){
+    console.log('dirige ae')
+}
+ else{
+    console.log('vai preso')
+
+ }
