@@ -1,4 +1,4 @@
-criaCartao(
+    criaCartao(
     'Geografia',
     'Qual é a capital do Brasil?',
     'Brasília.')
